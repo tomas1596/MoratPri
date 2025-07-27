@@ -106,7 +106,7 @@ body, html {
 
 .message-slide {
     position: absolute;
-    bottom: 0;
+    bottom: 80px;
     left: 0;
     right: 0;
     opacity: 0;
@@ -162,7 +162,7 @@ body, html {
 
 #music-button-container {
     position: fixed;
-    bottom: 20px;
+    bottom: 80px;
     left: 20px;
     display: flex;
     flex-direction: column;
